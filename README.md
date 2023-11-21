@@ -12,6 +12,6 @@ https://play.google.com/store/apps/details?id=com.fiamzia.flutter_calculator
 
 give it a star if you like it, share, and follow for more tech content!
 🚀 **Stay Connected:**
-LinkedIn : wafaa boukli hacene
-Twitter: Wafaa Boukli
-youtube: wafaadz4653
+- LinkedIn : wafaa boukli hacene
+- Twitter: Wafaa Boukli
+- youtube: wafaadz4653
